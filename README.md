@@ -5,8 +5,8 @@ Welcome to the Rock Paper Scissors game! This is a simple implementation of the 
 Game Rules :
 
 ● Rock beats Scissors
-● Scissors beats Paper
-● Paper beats Rock
+<br>● Scissors beats Paper
+<br>● Paper beats Rock
 
 
 Features :
