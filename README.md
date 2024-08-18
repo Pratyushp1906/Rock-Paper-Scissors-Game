@@ -12,5 +12,5 @@ Game Rules :
 Features :
 
 ● Single-player mode against the computer.
-● Randomized computer choices to simulate a real opponent.
-● Score tracking for each round.
+<br>● Randomized computer choices to simulate a real opponent.
+<br>● Score tracking for each round.
